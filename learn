@@ -4,4 +4,10 @@
 
 3. WAP to print information about the df using info()
 
-4. 
+4. WAP to set the max columns to 50      pd.set_option('display.max_columns', 50)
+
+5. WAP to print only the first 10 rows using head()
+
+6. WAP to print only the last 10 rows using the tail()
+
+7. 
