@@ -21,3 +21,5 @@
 11. WAP to sort index of a df in asc & desc using sort_index(ascending=, inplace=)
 
 12. WAP to filter a df
+
+13. WAP to use the ~ key to print the opposite of what u filter
