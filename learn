@@ -17,3 +17,7 @@
 9. WAP to set the index of a df using pd.read_csv(index_col='')
 
 10. WAP to print a row using loc[]
+
+11. WAP to sort index of a df in asc & desc using sort_index(ascending=)
+
+12.
