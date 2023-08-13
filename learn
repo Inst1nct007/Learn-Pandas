@@ -20,4 +20,4 @@
 
 11. WAP to sort index of a df in asc & desc using sort_index(ascending=, inplace=)
 
-12.
+12. WAP to filter a df
