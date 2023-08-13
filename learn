@@ -18,6 +18,6 @@
 
 10. WAP to print a row using loc[]
 
-11. WAP to sort index of a df in asc & desc using sort_index(ascending=)
+11. WAP to sort index of a df in asc & desc using sort_index(ascending=, inplace=)
 
 12.
