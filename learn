@@ -12,6 +12,8 @@
 
 7. WAP to print a row using iloc[]
 
-8. WAP to set the index of a dataframe using set_index()
+8. WAP to set the index of a df using set_index()
 
-9. WAP to print a row using loc[]
+9. WAP to set the index of a df using pd.read_csv(index_col='')
+
+10. WAP to print a row using loc[]
