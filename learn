@@ -22,4 +22,4 @@
 
 12. WAP to filter a df
 
-13. WAP to use the ~ key to print the opposite of what u filter
+#TIP In Pandas `AND` is represented as `&`. `OR` is represented as `|`. `NOT` is represented as `~`.
