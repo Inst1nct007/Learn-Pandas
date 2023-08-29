@@ -1,6 +1,6 @@
 # Important properties and methods
 
-info(), shape, ndim, value_counts(), sort_index(), columns, index, isin(), sort_values(), describe()
+info(), shape, ndim, value_counts(), sort_index(), columns, index, isin(), sort_values(), describe(), groupby(), get_group()
 
 1. WAP to create a dataframe
 
